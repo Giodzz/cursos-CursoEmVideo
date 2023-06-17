@@ -3,7 +3,7 @@
 Professor: Gustavo Guanabara
 
 Python
-- Mundo 1: 
+- Mundo 1: desde primeiros códigos, até condicionais
 - Mundo 2:
 - Mundo 3:
 
